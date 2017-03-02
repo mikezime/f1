@@ -115,6 +115,7 @@
     <Content Include="cdn\grd_head.png" />
     <Content Include="cdn\grd_pgr.png" />
     <Content Include="cdn\mbadge.jpg" />
+    <Content Include="cdn\swfobject.js" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
