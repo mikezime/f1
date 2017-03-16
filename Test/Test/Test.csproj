@@ -106,6 +106,10 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <None Include="ptemplates\PomodoroTechniqueExcelTemplate.xls" />
+    <None Include="ptemplates\PomodoroTechniqueExcelTemplate.xlsx" />
+    <None Include="ptemplates\PomodoroTechniqueExcelTemplate.xlt" />
+    <None Include="ptemplates\PomodoroTechniquePDFTemplate - TODO.pdf" />
     <None Include="Test_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
