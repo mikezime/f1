@@ -110,6 +110,7 @@
     <None Include="ptemplates\PomodoroTechniqueExcelTemplate.xlsx" />
     <None Include="ptemplates\PomodoroTechniqueExcelTemplate.xlt" />
     <None Include="ptemplates\PomodoroTechniquePDFTemplate - TODO.pdf" />
+    <None Include="ptemplates\Pomodoro_Technique_Word_Template.doc" />
     <None Include="Test_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
