@@ -89,6 +89,7 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="cdn\IcalFromSpreadsheetTemplate.csv" />
     <None Include="cdn\IcalFromSpreadsheetTemplate.xlsx" />
     <None Include="cdn\MeditationGame.air" />
     <None Include="cdn\Pomodorium.air" />
