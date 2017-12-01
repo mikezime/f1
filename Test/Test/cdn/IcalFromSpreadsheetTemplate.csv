@@ -1,4 +1,4 @@
-EventName,StartDateTime,EndDateTime,LocationName,Description 
+EventName,StartDateTime,EndDateTime,LocationName,Description
 some event 1, 2017-12-01 01:00 PM,2017-12-01 01:30 PM, conference room 1, some description 1 
 some event 2, 2017-12-01 02:00 PM,2017-12-01 02:30 PM, conference room 2, some description 2 
 some event 3, 2017-12-01 03:00 PM,2017-12-01 03:30 PM, conference room 3, some description 3 
