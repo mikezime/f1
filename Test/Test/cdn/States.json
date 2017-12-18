@@ -1,0 +1,54 @@
+{
+ "UsStates" : [
+{"StateName":"Alabama","StateCode":"AL","Region":"South","SubRegion":"East South Central"}
+,{"StateName":"Alaska","StateCode":"AK","Region":"West","SubRegion":"Pacific"}
+,{"StateName":"Arizona","StateCode":"AZ","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"Arkansas","StateCode":"AR","Region":"South","SubRegion":"West South Central"}
+,{"StateName":"California","StateCode":"CA","Region":"West","SubRegion":"Pacific"}
+,{"StateName":"Colorado","StateCode":"CO","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"Connecticut","StateCode":"CT","Region":"Northeast","SubRegion":"New England"}
+,{"StateName":"Delaware","StateCode":"DE","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"Florida","StateCode":"FL","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"Georgia","StateCode":"GA","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"Hawaii","StateCode":"HI","Region":"West","SubRegion":"Pacific"}
+,{"StateName":"Idaho","StateCode":"ID","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"Illinois","StateCode":"IL","Region":"Midwest","SubRegion":"East North Central"}
+,{"StateName":"Indiana","StateCode":"IN","Region":"Midwest","SubRegion":"East North Central"}
+,{"StateName":"Iowa","StateCode":"IA","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Kansas","StateCode":"KS","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Kentucky","StateCode":"KY","Region":"South","SubRegion":"East South Central"}
+,{"StateName":"Louisiana","StateCode":"LA","Region":"South","SubRegion":"West South Central"}
+,{"StateName":"Maine","StateCode":"ME","Region":"Northeast","SubRegion":"New England"}
+,{"StateName":"Maryland","StateCode":"MD","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"Massachusetts","StateCode":"MA","Region":"Northeast","SubRegion":"New England"}
+,{"StateName":"Michigan","StateCode":"MI","Region":"Midwest","SubRegion":"East North Central"}
+,{"StateName":"Minnesota","StateCode":"MN","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Mississippi","StateCode":"MS","Region":"South","SubRegion":"East South Central"}
+,{"StateName":"Missouri","StateCode":"MO","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Montana","StateCode":"MT","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"Nebraska","StateCode":"NE","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Nevada","StateCode":"NV","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"New Hampshire","StateCode":"NH","Region":"Northeast","SubRegion":"New England"}
+,{"StateName":"New Jersey","StateCode":"NJ","Region":"Northeast","SubRegion":"Middle Atlantic"}
+,{"StateName":"New Mexico","StateCode":"NM","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"New York","StateCode":"NY","Region":"Northeast","SubRegion":"Middle Atlantic"}
+,{"StateName":"North Carolina","StateCode":"NC","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"North Dakota","StateCode":"ND","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Ohio","StateCode":"OH","Region":"Midwest","SubRegion":"East North Central"}
+,{"StateName":"Oklahoma","StateCode":"OK","Region":"South","SubRegion":"West South Central"}
+,{"StateName":"Oregon","StateCode":"OR","Region":"West","SubRegion":"Pacific"}
+,{"StateName":"Pennsylvania","StateCode":"PA","Region":"Northeast","SubRegion":"Middle Atlantic"}
+,{"StateName":"Rhode Island","StateCode":"RI","Region":"Northeast","SubRegion":"New England"}
+,{"StateName":"South Carolina","StateCode":"SC","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"South Dakota","StateCode":"SD","Region":"Midwest","SubRegion":"West North Central"}
+,{"StateName":"Tennessee","StateCode":"TN","Region":"South","SubRegion":"East South Central"}
+,{"StateName":"Texas","StateCode":"TX","Region":"South","SubRegion":"West South Central"}
+,{"StateName":"Utah","StateCode":"UT","Region":"West","SubRegion":"Mountain"}
+,{"StateName":"Vermont","StateCode":"VT","Region":"Northeast","SubRegion":"New England"}
+,{"StateName":"Virginia","StateCode":"VA","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"Washington","StateCode":"WA","Region":"West","SubRegion":"Pacific"}
+,{"StateName":"West Virginia","StateCode":"WV","Region":"South","SubRegion":"South Atlantic"}
+,{"StateName":"Wisconsin","StateCode":"WI","Region":"Midwest","SubRegion":"East North Central"}
+,{"StateName":"Wyoming","StateCode":"WY","Region":"West","SubRegion":"Mountain"}]
+
+}
