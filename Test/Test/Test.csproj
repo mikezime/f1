@@ -94,7 +94,7 @@
     <None Include="cdn\MeditationGame.air" />
     <None Include="cdn\Pomodorium.air" />
     <None Include="cdn\States.json" />
-    <None Include="cdn\US And Canaga.xlsx" />
+    <None Include="cdn\USandCanada.xlsx" />
     <None Include="cdn\Us States.docx" />
     <None Include="project.json" />
   </ItemGroup>
