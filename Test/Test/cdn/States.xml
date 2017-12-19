@@ -1,0 +1,344 @@
+<USSTATESREGIONSSUBREGIONS>
+	<usstatesRecord>
+		<StateName>Alaska</StateName>
+		<StateCode>AK</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Arizona</StateName>
+		<StateCode>AZ</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Arkansas</StateName>
+		<StateCode>AR</StateCode>
+		<Region>South</Region>
+		<SubRegion>West South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>California</StateName>
+		<StateCode>CA</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Colorado</StateName>
+		<StateCode>CO</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Connecticut</StateName>
+		<StateCode>CT</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Delaware</StateName>
+		<StateCode>DE</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Florida</StateName>
+		<StateCode>FL</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Georgia</StateName>
+		<StateCode>GA</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Hawaii</StateName>
+		<StateCode>HI</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Idaho</StateName>
+		<StateCode>ID</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Illinois</StateName>
+		<StateCode>IL</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>East North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Indiana</StateName>
+		<StateCode>IN</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>East North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Iowa</StateName>
+		<StateCode>IA</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Kansas</StateName>
+		<StateCode>KS</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Kentucky</StateName>
+		<StateCode>KY</StateCode>
+		<Region>South</Region>
+		<SubRegion>East South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Louisiana</StateName>
+		<StateCode>LA</StateCode>
+		<Region>South</Region>
+		<SubRegion>West South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Maine</StateName>
+		<StateCode>ME</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Maryland</StateName>
+		<StateCode>MD</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Massachusetts</StateName>
+		<StateCode>MA</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Michigan</StateName>
+		<StateCode>MI</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>East North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Minnesota</StateName>
+		<StateCode>MN</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Mississippi</StateName>
+		<StateCode>MS</StateCode>
+		<Region>South</Region>
+		<SubRegion>East South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Missouri</StateName>
+		<StateCode>MO</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Montana</StateName>
+		<StateCode>MT</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Nebraska</StateName>
+		<StateCode>NE</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Nevada</StateName>
+		<StateCode>NV</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>New Hampshire</StateName>
+		<StateCode>NH</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>New Jersey</StateName>
+		<StateCode>NJ</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>Middle Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>New Mexico</StateName>
+		<StateCode>NM</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>New York</StateName>
+		<StateCode>NY</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>Middle Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>North Carolina</StateName>
+		<StateCode>NC</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>North Dakota</StateName>
+		<StateCode>ND</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Ohio</StateName>
+		<StateCode>OH</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>East North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Oklahoma</StateName>
+		<StateCode>OK</StateCode>
+		<Region>South</Region>
+		<SubRegion>West South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Oregon</StateName>
+		<StateCode>OR</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Pennsylvania</StateName>
+		<StateCode>PA</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>Middle Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Rhode Island</StateName>
+		<StateCode>RI</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>South Carolina</StateName>
+		<StateCode>SC</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>South Dakota</StateName>
+		<StateCode>SD</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>West North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Tennessee</StateName>
+		<StateCode>TN</StateCode>
+		<Region>South</Region>
+		<SubRegion>East South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Texas</StateName>
+		<StateCode>TX</StateCode>
+		<Region>South</Region>
+		<SubRegion>West South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Utah</StateName>
+		<StateCode>UT</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Vermont</StateName>
+		<StateCode>VT</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Virginia</StateName>
+		<StateCode>VA</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Washington</StateName>
+		<StateCode>WA</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>West Virginia</StateName>
+		<StateCode>WV</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Wisconsin</StateName>
+		<StateCode>WI</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>East North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Wyoming</StateName>
+		<StateCode>WY</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+</USSTATESREGIONSSUBREGIONS>
