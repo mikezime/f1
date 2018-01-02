@@ -95,6 +95,7 @@
     <None Include="cdn\Pomodorium.air" />
     <None Include="cdn\States.csv" />
     <None Include="cdn\States.json" />
+    <None Include="cdn\States.tsv" />
     <None Include="cdn\USandCanada.xlsx" />
     <None Include="cdn\Us States.docx" />
     <None Include="cdn\UsStates.xlsx" />
