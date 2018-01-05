@@ -140,6 +140,18 @@
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Vcf\AgnesKendal.vcf" />
+    <Content Include="Vcf\AureliaMitchell.vcf" />
+    <Content Include="Vcf\BelenBenson.vcf" />
+    <Content Include="Vcf\CarstenBlythe.vcf" />
+    <Content Include="Vcf\CarstenEngland.vcf" />
+    <Content Include="Vcf\CohenRudge.vcf" />
+    <Content Include="Vcf\DiederichPenny.vcf" />
+    <Content Include="Vcf\IvaEngland.vcf" />
+    <Content Include="Vcf\JulieBlankley.vcf" />
+    <Content Include="Vcf\LuwanaHammett.vcf" />
+    <Content Include="Vcf\SistoStafford.vcf" />
+    <Content Include="Vcf\WirthRudge.vcf" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

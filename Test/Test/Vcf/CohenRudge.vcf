@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=en-us:Rudge;Cohen
+FN:Cohen Rudge
+ORG:Test organisation 
+TITLE:This Is Test Please Ignore
+TEL;WORK;VOICE:(123) 456-7890
+TEL;WORK;FAX:(123) 456-7890
+ADR;WORK;PREF:;;123 TestStreet;Test City;TestState;123456;Test Country
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:123 TestStreet=0D=0A=
+Test City;TestState;123456;Test Country
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
+URL;WORK:www.testsite.com
+EMAIL;PREF;INTERNET:CohenRudge@test.com
+REV:20170120T210105Z
+END:VCARD
+
