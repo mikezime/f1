@@ -97,8 +97,6 @@
     <None Include="cdn\States.json" />
     <None Include="cdn\States.sqlite" />
     <None Include="cdn\States.tsv" />
-    <None Include="cdn\StatesPartOne.csv" />
-    <None Include="cdn\StatesPartTwo.csv" />
     <None Include="cdn\USandCanada.xlsx" />
     <None Include="cdn\Us States.docx" />
     <None Include="cdn\UsStates.xlsx" />
