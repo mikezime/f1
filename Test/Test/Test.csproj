@@ -97,6 +97,8 @@
     <None Include="cdn\States.json" />
     <None Include="cdn\States.sqlite" />
     <None Include="cdn\States.tsv" />
+    <None Include="cdn\StatesPartOne.csv" />
+    <None Include="cdn\StatesPartTwo.csv" />
     <None Include="cdn\USandCanada.xlsx" />
     <None Include="cdn\Us States.docx" />
     <None Include="cdn\UsStates.xlsx" />
@@ -141,6 +143,7 @@
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Vcf\AgnesKendal.vcf" />
+    <Content Include="Vcf\AllContactsInOneFile.vcf" />
     <Content Include="Vcf\AureliaMitchell.vcf" />
     <Content Include="Vcf\BelenBenson.vcf" />
     <Content Include="Vcf\CarstenBlythe.vcf" />
