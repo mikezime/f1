@@ -129,6 +129,7 @@
     <Content Include="cdn\grd_head.png" />
     <Content Include="cdn\grd_pgr.png" />
     <Content Include="cdn\mbadge.jpg" />
+    <Content Include="cdn\States.html" />
     <Content Include="cdn\States.xml" />
     <Content Include="cdn\StatesTabDelimited.txt" />
     <Content Include="cdn\swfobject.js" />
