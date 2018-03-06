@@ -1,0 +1,43 @@
+<USSTATESREGIONSSUBREGIONS>
+	<usstatesRecord>
+		<StateName>Vermont</StateName>
+		<StateCode>VT</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Virginia</StateName>
+		<StateCode>VA</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Washington</StateName>
+		<StateCode>WA</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>West Virginia</StateName>
+		<StateCode>WV</StateCode>
+		<Region>South</Region>
+		<SubRegion>South Atlantic</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Wisconsin</StateName>
+		<StateCode>WI</StateCode>
+		<Region>Midwest</Region>
+		<SubRegion>East North Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Wyoming</StateName>
+		<StateCode>WY</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+</USSTATESREGIONSSUBREGIONS>

@@ -1,0 +1,44 @@
+<USSTATESREGIONSSUBREGIONS>
+	<usstatesRecord>
+		<StateName>Alaska</StateName>
+		<StateCode>AK</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Arizona</StateName>
+		<StateCode>AZ</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Arkansas</StateName>
+		<StateCode>AR</StateCode>
+		<Region>South</Region>
+		<SubRegion>West South Central</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>California</StateName>
+		<StateCode>CA</StateCode>
+		<Region>West</Region>
+		<SubRegion>Pacific</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Colorado</StateName>
+		<StateCode>CO</StateCode>
+		<Region>West</Region>
+		<SubRegion>Mountain</SubRegion>
+	</usstatesRecord>
+
+	<usstatesRecord>
+		<StateName>Connecticut</StateName>
+		<StateCode>CT</StateCode>
+		<Region>Northeast</Region>
+		<SubRegion>New England</SubRegion>
+	</usstatesRecord>
+
+</USSTATESREGIONSSUBREGIONS>
