@@ -1,0 +1,30 @@
+Date,Amount,ClearedStatus,Number,Payee,Memo,Category
+1/1/2008,1500,X,1221,Paycheck,direct deposit,Income.Salary
+2/1/2008,1500,X,1232,Paycheck,direct deposit,Income.Salary
+3/1/2008,1500,X,1243,Paycheck,direct deposit,Income.Salary
+4/1/2008,1500,X,1254,Paycheck,direct deposit,Income.Salary
+5/1/2008,1500,X,1265,Paycheck,direct deposit,Income.Salary
+6/1/2008,1500,X,1276,Paycheck,direct deposit,Income.Salary
+7/1/2008,1500,X,1287,Paycheck,direct deposit,Income.Salary
+8/1/2008,1500,X,1298,Paycheck,direct deposit,Income.Salary
+9/1/2008,1500,X,1309,Paycheck,direct deposit,Income.Salary
+10/1/2008,1500,X,1320,Paycheck,direct deposit,Income.Salary
+11/1/2008,1500,X,1331,Paycheck,direct deposit,Income.Salary
+12/1/2008,1500,X,1342,Paycheck,direct deposit,Income.Salary
+4/15/2008,1500,X,1353,Bonus Paycheck,direct deposit,Income.Bonus
+10/25/2008,4000,X,1364,Bonus Paycheck,direct deposit,Income.Bonus
+3/9/2008,50,X,1375,Gift from Grandma,gift,Income.Gifts Received
+8/4/2008,150,X,1386,Gift from Grandma,gift,Income.Gifts Received
+10/10/2008,50,X,1397,Gift from Grandma,gift,Income.Gifts Received
+1/20/2008,-98,X,1408,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+2/17/2008,-134,X,1419,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+3/18/2008,-245,X,1430,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+4/11/2008,-147,X,1441,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+5/16/2008,-178,X,1452,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+6/17/2008,-109,X,1463,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+7/12/2008,-245,X,1474,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+8/10/2008,-231,X,1485,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+9/7/2008,-289,X,1496,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+10/15/2008,-138,X,1507,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+11/17/2008,-252,X,1518,Payment to Credit Card,credit card payment,Liabilities.Credit Card
+12/10/2008,-335,X,1529,Payment to Credit Card,credit card payment,Liabilities.Credit Card
