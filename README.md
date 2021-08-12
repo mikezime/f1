@@ -1,7 +1,7 @@
 Actors
 
 | FieldName | FieldType | Description |
----
+|---|---|---|
 | ID | System.Int64 | Contains ID |
 | FirstName | System.String | Contains FirstName |
 | LastName | System.String | Contains LastName |
