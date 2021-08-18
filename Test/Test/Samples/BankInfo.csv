@@ -1,0 +1,5 @@
+"TransactionID","Amount","CheckNum","Currency","Date","Memo","ReferenceNumber","TransactionCorrectionAction","AccType","AccountID","AccountType","BankAccountType","BankID","BranchID","AvaliableBalance","LedgerBalance","LedgerBalanceDate","SignOnDTServer","SignOnLanguage","StatementStart","StatementEnd"
+"2014030503444800","3444.80","300000429583","BRL","3/5/2014","Transferência Agendada","100.300.000.429.583","NA","BANK","99999-9","BANK","CHECKING","1","9999-9","0","9999.99","3/27/2014","3/27/2014","POR","2/24/2014","3/27/2014"
+"20140305122250","-22.25","000000070561","BRL","3/5/2014","Compra com Cartão","70.561","NA","BANK","99999-9","BANK","CHECKING","1","9999-9","0","9999.99","3/27/2014","3/27/2014","POR","2/24/2014","3/27/2014"
+"201403051100000","-100.00","000000072644","BRL","3/5/2014","Saque","72.644","NA","BANK","99999-9","BANK","CHECKING","1","9999-9","0","9999.99","3/27/2014","3/27/2014","POR","2/24/2014","3/27/2014"
+
