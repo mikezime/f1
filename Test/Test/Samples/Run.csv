@@ -1,0 +1,8 @@
+"Sport","Notes","Id","StartTime","TotalTimeSeconds","DistanceMeters","MaximumSpeed","Calories","Value","Intensity","TriggerMethod","Time","LatitudeDegrees","LongitudeDegrees","AltitudeMeters","type","xmlns","AvgSpeed","Name","VersionMajor","VersionMinor","BuildMajor","BuildMinor","LangID","PartNumber"
+"Running","Sunday Morning Run","2009-08-30T13:41:31.000Z","2009-08-30T13:41:31.000Z","2678.0","6164.9","8.7","530","179","","","","","","","","","","","","","","","",""
+"","","","","","","","","206","Active","Manual","2009-08-30T13:41:31.000Z","38.925836","-77.02924","55.8","HeartRateInBeatsPerMinute_t","","","","","","","","",""
+"","","","","","","","","95","","","2009-08-30T13:41:33.000Z","38.925828","-77.0293","55.9","HeartRateInBeatsPerMinute_t","","","","","","","","",""
+"","","","","","","","","95","","","2009-08-30T13:41:35.000Z","38.925813","-77.029404","55.8","HeartRateInBeatsPerMinute_t","","","","","","","","",""
+"","","","","","","","","100","","","","","","","Application_t","http://www.garmin.com/xmlschemas/ActivityExtension/v2","3.051930693069307","tapiriik","0","0","0","0","en","000-00000-00"
+
+
