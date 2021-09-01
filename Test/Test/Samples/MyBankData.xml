@@ -1,0 +1,294 @@
+<sampleData>
+<sampleBankTransactionsData>
+
+	<sampleBankTransactionsRow>
+		<Date>1/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>2/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>3/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>4/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>5/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>6/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>7/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>8/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>9/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>10/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>11/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>12/1/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Salary</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>4/15/2008</Date>
+		<Amount>1500</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Bonus Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Bonus</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>10/25/2008</Date>
+		<Amount>4000</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Bonus Paycheck</Payee>
+		<Memo></Memo>
+		<Category>Income.Bonus</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>3/9/2008</Date>
+		<Amount>50</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Gift from Grandma</Payee>
+		<Memo></Memo>
+		<Category>Income.Gifts Received</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>8/4/2008</Date>
+		<Amount>150</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Gift from Grandma</Payee>
+		<Memo></Memo>
+		<Category>Income.Gifts Received</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>10/10/2008</Date>
+		<Amount>50</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Gift from Grandma</Payee>
+		<Memo></Memo>
+		<Category>Income.Gifts Received</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>1/20/2008</Date>
+		<Amount>-98</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>2/17/2008</Date>
+		<Amount>-134</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>3/18/2008</Date>
+		<Amount>-245</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>4/11/2008</Date>
+		<Amount>-147</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>5/16/2008</Date>
+		<Amount>-178</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>6/17/2008</Date>
+		<Amount>-109</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>7/12/2008</Date>
+		<Amount>-245</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>8/10/2008</Date>
+		<Amount>-231</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>9/7/2008</Date>
+		<Amount>-289</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>10/15/2008</Date>
+		<Amount>-138</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>11/17/2008</Date>
+		<Amount>-252</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+
+	<sampleBankTransactionsRow>
+		<Date>12/10/2008</Date>
+		<Amount>-335</Amount>
+		<ClearedStatus></ClearedStatus>
+		<Number></Number>
+		<Payee>Payment to Credit Card</Payee>
+		<Memo></Memo>
+		<Category>Liabilities.Credit Card</Category>
+	</sampleBankTransactionsRow>
+</sampleBankTransactionsData>
+</sampleData>
