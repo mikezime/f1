@@ -1,7 +1,7 @@
 States
 
 
-| usstatesRecord_StateName | usstatesRecord_StateCode | usstatesRecord_Region | usstatesRecord_SubRegion |
+| StateName | usstatesRecord_StateCode | usstatesRecord_Region | usstatesRecord_SubRegion |
 | --- | --- | --- | --- |
 | Alaska | AK | West | Pacific |
 | Arizona | AZ | West | Mountain |
