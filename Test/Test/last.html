@@ -1,0 +1,105 @@
+<html>
+<body>
+<style>
+  
+#usermessage1 {
+  /* min-width: 250px;*/
+  margin-left: -125px; /* Divide value of min-width by 2 */
+  background-color: #333; /* Black background color */
+  color: #fff; /* White text color */
+  text-align: center; /* Centered text */
+  border-radius: 2px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; /* Add a z-index if needed */
+  left: 50%; /* Center the snackbar */
+  bottom: 30px; /* 30px from the bottom */
+ border-radius: 15px;
+}
+a {
+  color: lightblue;
+}
+ </style>
+<div id="usermessage1"  ></div>
+
+<script
+			  src="https://code.jquery.com/jquery-3.6.0.min.js"
+			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+			  crossorigin="anonymous"></script>
+
+<script language=javascript>
+
+$("#usermessage1").fadeOut(10);
+//po4atok prodaz 
+var userMessage = function (str) {
+    var wordCount = str.split(/[\s-]+/).length;
+    var readingTime = Math.ceil(wordCount * 555);
+    $("#usermessage1").append(str).fadeIn(1000).delay(readingTime).fadeOut(1000, function () {
+        $(this).empty();
+    });
+};
+
+var x1=2;
+const a1=[ "Qif To Xml" ,"Xml from Xsd" ,"Dbf To Sql" ,"File names To Word" ,"Csv Viewer" ,"Foxpro dbf to Sqlite" ,"Mdb to Pdf" ,"Qif Viewer" ,"Csv to Pdf" ,"Access To Json" ,"Mdb to Xml" ,"Word to Csv" ,"Tcx to Excel" ,"Xlsx Viewer" ,"Excel to Dbf" ,"Freemind To Json" ,"Rss to Html" ,"Xls to Dbf" ,"Merge Dbf files" ,"Excel to Sqlite" ,"Xml to Excel" ,"Dbf to Javascript" ,"Dbf to Mdb" ,"Dbf to Pdf" ,"Vcf To Xls" ,"Lvm To Excel" ,"Access to Web" ,"Xls to Vcf" ,"Access to Sql" ,"Rss to Json" ,"Ofx to Excel" ,"Tsv to Yaml" ,"Dbf to Vcf" ,"Excel to Ofx" ,"Csv to Ofx" ,"Yaml To Json" ,"Dbf To Excel" ,"Paradox db to Csv" ,"Paradox db to Excel" ,"Xls To Xml" ,"Paradox db to Sql" ,"Xls to Sql" ,"Excel tables to Pdf" ,"Wpt Viewer" ,"Xsd Viewer" ,"Csv to Sqlite" ,"Xml Viewer" ,"Pipe delimited To Pdf" ,"Mdb to Word" ,"Freemind To Js" ,"Yaml Viewer" ,"Paradox db Viewer" ,"Vcf to Pdf" ,"Tsv to Pdf" ,"Yaml To Pdf" ,"Csv to Qif" ,"File names To Excel" ,"Rss to Excel" ,"Html Documentation from Xsd" ,"Mdb to Sqlite" ,"Excel to ini" ,"Mdb Viewer" ,"Sqlite Viewer" ,"Rss to Js" ,"Folders From file names" ,"Ofx Viewer" ,"Xsd to Pdf" ,"Xml To Xls" ,"Xml to Word" ,"Dbf To Text" ,"Xlsx to Tsv" ,"Lvm Viewer" ,"Rss to Word" ,"Rss to Text" ,"File names To Pdf" ,"Kml To Sql" ,"Ics Viewer" ,"Rss to Csv" ,"Vcf to Tsv" ,"Rss to Pdf" ,"Wpt to Csv" ,"Foxpro dbf To Csv" ,"Csv to Tcx" ,"Json Viewer" ,"Gpx to Wpt" ,"Dbf Viewer" ,"Xml to Pdf" ,"Xsd to Word" ,"Csv to Dbf" ,"Wpt to Gpx" ,"Csv to Mdb" ,"Qif To Xls" ,"Json to Pdf" ,"Dbf To Csv" ,"Foxpro dbf To Sql" ,"Mdb to Dbf" ,"Json to Tab delimited" ,"Foxpro dbf To Excel" ,"File names To Text" ,"FoxPro dbf Viewer" ,"Vcf Viewer" ,"Folder To Html" ,"Json to Sqlite" ,"Xsd to Excel" ,"into SQL" ,"Dbf to Sqlite" ,"Tcx to Csv" ,"Rss to Sql" ,"Xls To Qif" ,"ini to Excel" ,"File names To Csv" ,"Foxpro dbf To Text" ,"Yaml to Excel" ,"Xml To Qif" ,"Dbf to Json" ] ;
+  var d = new Date(); const h1=d.getHours();const d1=d.getDate();const m1= d.getMonth(); var indx = d.getDay()*15+h1; if (indx > a1.length){ indx-=a1.length }
+var i=0;
+var d2;
+
+setTimeout(function(){ prodazi(); },2000);
+
+function prodazi(){
+	i+=1;d2 = new Date(new Date(d.getFullYear(),m1,d1,h1-i,d1).getTime() + (55*i)*29321);
+	var apname=a1[indx-i];
+	var lnk="http://www.whiterocksoftware.com/search?q="+apname;
+	
+  userMessage('Somebody unlocked <a href="'+lnk+'">'+ apname +'</a> '+ dateDiff(d2)+".");
+	x1+=2;
+	
+	setTimeout(function(){ prodazi(); },x1* 3500);
+}
+
+function dateDiff(d){
+  var today = new Date();
+  var dte = new Date(d);
+
+  var delta = Math.abs(dte - today ) / 1000;
+
+  // calculate (and subtract) whole days
+  var days = Math.floor(delta / 86400);
+  delta -= days * 86400;
+
+  // calculate (and subtract) whole hours
+  var hours = Math.floor(delta / 3600) % 24;
+  delta -= hours * 3600;
+
+  // calculate (and subtract) whole minutes
+  var minutes = Math.floor(delta / 60) % 60;
+
+ if(days == 1) {
+  return "a day ago";
+ }else if(days > 1) {
+  return days+" days ago";
+ } else if(hours == 1) { 
+   return " an hour ago";
+ } else if(hours > 1) { 
+  return hours+" hours ago";
+ } else if(minutes > 1) { 
+  return minutes + " minutes ago";
+ }
+  return " a minute ago";
+}
+
+//kinec prodaz 
+
+/*
+var curr = new Date; // get current date
+var first = curr.getDate() - curr.getDay(); // First day is the day of the month - the day of the week
+var last = first + 7; // last day is the first day + 6  
+var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };   
+var lastday = new Date(curr.setDate(last)).toLocaleDateString("en-US", options);   
+var div = document.getElementById('couponText'); 
+div.innerHTML += "*Price discount effective till " + lastday + ".The final price of software may be subject to sales tax depending upon your residence.All prices in USD.";
+*/
+</script>
+</body>
+</html>
