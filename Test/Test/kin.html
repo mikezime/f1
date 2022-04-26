@@ -1,0 +1,13 @@
+<html>
+<body>
+<div id="kin"></div>
+<script language='javascript'>
+var curr = new Date; var first = curr.getDate() - curr.getDay(); 
+var last = first + 7; // ostannij den ce pershij + 6  
+var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };   
+var lastday = new Date(curr.setDate(last)).toLocaleDateString("en-US", options);   
+var div = document.getElementById('kin'); 
+div.innerHTML += "*Price discount effective till " + lastday + ".";
+</script>
+</body>
+</html>
