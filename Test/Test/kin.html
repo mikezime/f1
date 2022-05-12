@@ -7,7 +7,7 @@ var last = first + 7; // ostannij den ce pershij + 6
 var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };   
 var lastday = new Date(curr.setDate(last)).toLocaleDateString("en-US", options);   
 var div = document.getElementById('kin'); 
-div.innerHTML += "*Price discount effective till " + lastday + ".";
+div.innerHTML += "*Sale price discount effective till " + lastday + ".";
 </script>
 </body>
 </html>
