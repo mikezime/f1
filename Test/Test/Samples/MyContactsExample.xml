@@ -1,0 +1,196 @@
+<Table>
+<Data name="ContactsExample">
+
+	<Row>
+		<FirstName>Agnes</FirstName>
+		<LastName>Kendal</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Agnes Kendal</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>228-712-1728</PreferredPhone>
+		<PreferredPhone1>228-712-1728</PreferredPhone1>
+		<Email>AgnesKendal@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Aurelia</FirstName>
+		<LastName>Mitchell</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Aurelia Mitchell</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>229-822-2829</PreferredPhone>
+		<PreferredPhone1>229-822-2829</PreferredPhone1>
+		<Email>AureliaMitchell@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Belen</FirstName>
+		<LastName>Benson</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Belen Benson</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>320-933-3930</PreferredPhone>
+		<PreferredPhone1>320-933-3930</PreferredPhone1>
+		<Email>BelenBenson@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Carsten</FirstName>
+		<LastName>Blythe</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Carsten Blythe</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>421-044-4041</PreferredPhone>
+		<PreferredPhone1>421-044-4041</PreferredPhone1>
+		<Email>CarstenBlythe@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Carsten</FirstName>
+		<LastName>England</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Carsten England</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>522-155-5152</PreferredPhone>
+		<PreferredPhone1>522-155-5152</PreferredPhone1>
+		<Email>CarstenEngland@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Cohen</FirstName>
+		<LastName>Rudge</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Cohen Rudge</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>623-266-6263</PreferredPhone>
+		<PreferredPhone1>623-266-6263</PreferredPhone1>
+		<Email>CohenRudge@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Diederich</FirstName>
+		<LastName>Penny</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Diederich Penny</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>122-781-8712</PreferredPhone>
+		<PreferredPhone1>122-781-8712</PreferredPhone1>
+		<Email>DiederichPenny@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Iva</FirstName>
+		<LastName>England</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Iva England</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>829-228-2289</PreferredPhone>
+		<PreferredPhone1>829-228-2289</PreferredPhone1>
+		<Email>IvaEngland@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Julie</FirstName>
+		<LastName>Blankley</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Julie Blankley</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>920-339-3390</PreferredPhone>
+		<PreferredPhone1>920-339-3390</PreferredPhone1>
+		<Email>JulieBlankley@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Luwana</FirstName>
+		<LastName>Hammett</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Luwana Hammett</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>021-440-4401</PreferredPhone>
+		<PreferredPhone1>021-440-4401</PreferredPhone1>
+		<Email>LuwanaHammett@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Sisto</FirstName>
+		<LastName>Stafford</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Sisto Stafford</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>122-551-5512</PreferredPhone>
+		<PreferredPhone1>122-551-5512</PreferredPhone1>
+		<Email>SistoStafford@test.com</Email>
+	</Row>
+
+	<Row>
+		<FirstName>Wirth</FirstName>
+		<LastName>Rudge</LastName>
+		<MiddleName></MiddleName>
+		<FormattedName>Wirth Rudge</FormattedName>
+		<Title></Title>
+		<Role></Role>
+		<Organization>Test organisation</Organization>
+		<OrganizationalUnit></OrganizationalUnit>
+		<BirthDay></BirthDay>
+		<Url>www.testsite.com</Url>
+		<PreferredPhone>223-662-6623</PreferredPhone>
+		<PreferredPhone1>223-662-6623</PreferredPhone1>
+		<Email>WirthRudge@test.com</Email>
+	</Row>
+</Data>
+</Table>
