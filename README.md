@@ -10,7 +10,7 @@ positivePositivewords
 | accomplish | Achieve or complete successfully |
 | achievement | A thing done successfully with effort, skill, or courage |
 | admire | Regard with respect or warm approval |
-| bold | (BRAVE) not frightened of danger; <br>(NOTICEABLE) strong in colour or shape, and very noticeable to the eye; <br>(NOT SHY) not shy, especially in a way that shows no respect<div><br></div><div><img src="quizlet-75hPXEOqBzGcZ5pjCImhlA.jpg"></div> |
+| bold | (BRAVE) not frightened of danger; <br>(NOTICEABLE) strong in colour or shape, and very noticeable to the eye; <br>(NOT SHY) not shy, especially in a way that shows no respect |
 | audacious | Showing a willingness to take surprisingly bold risks;<br>Showing an impudent lack of respect |
 | daring | adventurous or audaciously bold |
 | adventure | An unusual and exciting or daring experience;<br>Excitement associated with danger or the taking of risks |
