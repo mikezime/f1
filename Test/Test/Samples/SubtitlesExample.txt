@@ -1,0 +1,174 @@
+StartTime,EndTime,Text
+240,7040,hi in this video i'll show how to use
+2800,9040,application for creating um vcf uh files
+7040,12320,from xml you can see on my computer i
+9040,14079,have xml file i'd like to convert to vcf
+12320,16160,and basically it contains contact
+14080,17750,information and
+16160,19279,let's open it into
+17750,21520,[Music]
+19279,23920,internet explorer i can do right click
+21520,26880,and internet explorer
+23920,29519,and you can see it has a
+26880,30640,some contact information first name last
+29519,34160,name
+30640,36559,uh organization url phone email and i
+34160,39040,like to create vcf file with all this
+36559,41120,data in order to do this oh i can also
+39040,44160,open it into xml viewer it's a free app
+41120,47038,it's showing what is inside an xml file
+44160,49599,and you can see it's more like table
+47039,51520,view i believe link on this app
+49600,53680,in description it's showing what is
+51520,56000,inside in xml
+53680,56000,and
+56879,62239,you can see it has all these tags
+59520,64320,and this tags so they will be in in
+62239,65280,conversion app but let me show you how
+64319,67600,to do it
+65280,69680,uh so first i will download application
+67600,74320,from my website this is my website to
+69680,76000,find app i will type xml to vcf
+74320,77758,and click on
+76000,80400,application page click on the load
+77759,82479,button to start the loading process
+80400,84880,and beta tell archive will be downloaded
+82479,87119,on my computer
+84880,88798,i will be recording more videos on vcf
+87119,90479,files and
+88799,92400,conversion uh
+90479,94320,to and from this file so if you are
+92400,97720,interested please consider subscribing
+94320,97720,to my channel
+102640,106560,yeah we are waiting file you can see
+104960,108720,archive has been downloaded i'll click
+106560,110720,on downloaded archive
+108720,113759,and then double click on msi inside
+110720,114399,archive and click on more info on this
+113759,116240,screen
+114399,117759,i'm getting the screen from windows
+116240,119600,because i'm not registered publisher is
+117759,121680,microsoft you can see publisher unknown
+119600,123759,so i just click run anyway to start
+121680,127360,installation
+123759,130000,click on next next install click on yes
+127360,131440,and click finish on final screen
+130000,132959,and you can see application has been
+131440,135520,installed on my computer have a new
+132959,137440,shortcut on my desktop now i can close
+135520,139280,this this this and double click on
+137440,142400,shortcut to launch app
+139280,144640,now if if you'd like to have a similar
+142400,147360,file or if you'd like to see this
+144640,149359,contact xml file you can click on this
+147360,152720,link to download it and it will be
+149360,154319,downloaded in your computer right now
+152720,156400,so after
+154319,158079,application launched step
+156400,160319,conversion is three steps process in
+158080,163040,step one we will have to select
+160319,165359,um xml file we would like to convert so
+163040,168560,i click on this button navigate to my
+165360,168560,xml file
+169360,176879,it called my contacts xml i think my
+173680,179599,contacts examplexml yep i click open
+176879,182799,click on i can add more file if i want
+179599,184879,to if there is the same structure um
+182800,187680,if there is the same xml structure i can
+184879,189120,add them and click on next step
+187680,192800,here um
+189120,195760,and the second step i i can specify uh
+192800,200400,if i want to have a one vcf file or many
+195760,203440,vcf file so if i select one vcf file
+200400,205920,only one file will be created and all
+203440,208799,contacts will be put into this one file
+205920,212640,it's useful if i have like uh if i want
+208799,215120,to have vcf file for entire organization
+212640,216958,and i can put it on the website and
+215120,219120,everyone who download it can add like
+216959,221440,entire organization contacts to it
+219120,224080,however if i want to have a
+221440,226400,one vcr file per person i can select
+224080,229760,many files in this case
+226400,231519,let's select one file and just have it
+229760,232879,so
+231519,236319,then i
+232879,239200,here next step i will have to match vcf
+236319,241518,columns with my xml data what will
+239200,244399,happen on right side you can see
+241519,248560,we have a columns we had before on xml
+244400,249920,viewer now we have here so our goal is
+248560,253360,to match
+249920,255839,first name to first name right column so
+253360,257600,your xml may be different and that's
+255840,259040,okay because uh
+257600,261440,if you have a
+259040,263199,for example first name just name is name
+261440,266080,you will have a different name but you
+263199,269440,know how to match like what
+266080,271758,you where is the data in your xml file
+269440,275280,if you don't know you can you can use
+271759,277120,that xml viewer to check um
+275280,280400,where is how what is the name of the
+277120,282400,column and how data is structured inside
+280400,285039,so um
+282400,288000,then i will select last name
+285040,291040,organization
+288000,293600,uh job title
+291040,294840,i don't think if i have a
+293600,298960,job title
+294840,299580,here okay so i'll just keep uh i'll just
+298960,301919,keep um
+299580,304159,[Music]
+301919,306799,missing information that's fine as well
+304160,310639,so phone number
+306800,312320,mobile phone from one a mail
+310639,316000,yup
+312320,317919,i don't have a home i have a home page
+316000,319840,i don't have address so i'll just keep
+317919,321680,it and have country click on next step
+319840,325119,and then final step i'll click run and
+321680,327680,it's asking me to create xml
+325120,329680,to create a vcf file where it's
+327680,331680,be located and what will be the name of
+329680,333280,the file i can change the name of the
+331680,335039,file
+333280,337359,um like
+335039,339440,my org
+337360,341919,xml
+339440,343600,and saved into my document click on save
+341919,346159,and file has been saved
+343600,347759,so yeah basically that's it we saved our
+346160,350560,file we see a file for entire
+347759,353520,organization we can i can double click
+350560,355440,on it to open it i have a i have a vcf
+353520,358479,viewer installed
+355440,358479,on this computer
+358560,362319,and it will show me what is inside of
+360720,364720,this vcf file
+362319,367919,this is also free app i'll i will leave
+364720,370560,this link of this happen to description
+367919,372560,i can also open it into
+370560,375600,windows
+372560,377039,contacts right but it will be opening
+375600,380479,contacts per
+377039,382000,vcf file so if i click you can see or we
+380479,384318,have all the data
+382000,387759,but in fact we can cancel it will open
+384319,389280,next one next one and it will be opening
+387759,391280,until
+389280,395359,until i until
+391280,398239,end of the file so this is how windows
+395360,401280,but you can see all information uh phone
+398240,403199,email cell organization company name
+401280,405599,everything
+403199,408639,has been imported
+405600,411280,yeah basically that's it i can also open
+408639,414160,it into many files so in this case it
+411280,414159,will ask me to
+414960,418960,specify folder when all these files will
+417759,421440,be placed
+418960,422799,so yeah basically that's it if you have
+421440,426919,any questions please leave them in the
+422800,426919,comments below thank you
+
