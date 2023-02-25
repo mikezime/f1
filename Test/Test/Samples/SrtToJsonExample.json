@@ -1,0 +1,175 @@
+{ "XmltoVcfen" : [
+{"StartTime":"240","EndTime":"7040","Text":"hi in this video i&apos;ll show how to use"}
+,{"StartTime":"2800","EndTime":"9040","Text":"application for creating um vcf uh files"}
+,{"StartTime":"7040","EndTime":"12320","Text":"from xml you can see on my computer i"}
+,{"StartTime":"9040","EndTime":"14079","Text":"have xml file i&apos;d like to convert to vcf"}
+,{"StartTime":"12320","EndTime":"16160","Text":"and basically it contains contact"}
+,{"StartTime":"14080","EndTime":"17750","Text":"information and"}
+,{"StartTime":"16160","EndTime":"19279","Text":"let&apos;s open it into"}
+,{"StartTime":"17750","EndTime":"21520","Text":"[Music]"}
+,{"StartTime":"19279","EndTime":"23920","Text":"internet explorer i can do right click"}
+,{"StartTime":"21520","EndTime":"26880","Text":"and internet explorer"}
+,{"StartTime":"23920","EndTime":"29519","Text":"and you can see it has a"}
+,{"StartTime":"26880","EndTime":"30640","Text":"some contact information first name last"}
+,{"StartTime":"29519","EndTime":"34160","Text":"name"}
+,{"StartTime":"30640","EndTime":"36559","Text":"uh organization url phone email and i"}
+,{"StartTime":"34160","EndTime":"39040","Text":"like to create vcf file with all this"}
+,{"StartTime":"36559","EndTime":"41120","Text":"data in order to do this oh i can also"}
+,{"StartTime":"39040","EndTime":"44160","Text":"open it into xml viewer it&apos;s a free app"}
+,{"StartTime":"41120","EndTime":"47038","Text":"it&apos;s showing what is inside an xml file"}
+,{"StartTime":"44160","EndTime":"49599","Text":"and you can see it&apos;s more like table"}
+,{"StartTime":"47039","EndTime":"51520","Text":"view i believe link on this app"}
+,{"StartTime":"49600","EndTime":"53680","Text":"in description it&apos;s showing what is"}
+,{"StartTime":"51520","EndTime":"56000","Text":"inside in xml"}
+,{"StartTime":"53680","EndTime":"56000","Text":"and"}
+,{"StartTime":"56879","EndTime":"62239","Text":"you can see it has all these tags"}
+,{"StartTime":"59520","EndTime":"64320","Text":"and this tags so they will be in in"}
+,{"StartTime":"62239","EndTime":"65280","Text":"conversion app but let me show you how"}
+,{"StartTime":"64319","EndTime":"67600","Text":"to do it"}
+,{"StartTime":"65280","EndTime":"69680","Text":"uh so first i will download application"}
+,{"StartTime":"67600","EndTime":"74320","Text":"from my website this is my website to"}
+,{"StartTime":"69680","EndTime":"76000","Text":"find app i will type xml to vcf"}
+,{"StartTime":"74320","EndTime":"77758","Text":"and click on"}
+,{"StartTime":"76000","EndTime":"80400","Text":"application page click on the load"}
+,{"StartTime":"77759","EndTime":"82479","Text":"button to start the loading process"}
+,{"StartTime":"80400","EndTime":"84880","Text":"and beta tell archive will be downloaded"}
+,{"StartTime":"82479","EndTime":"87119","Text":"on my computer"}
+,{"StartTime":"84880","EndTime":"88798","Text":"i will be recording more videos on vcf"}
+,{"StartTime":"87119","EndTime":"90479","Text":"files and"}
+,{"StartTime":"88799","EndTime":"92400","Text":"conversion uh"}
+,{"StartTime":"90479","EndTime":"94320","Text":"to and from this file so if you are"}
+,{"StartTime":"92400","EndTime":"97720","Text":"interested please consider subscribing"}
+,{"StartTime":"94320","EndTime":"97720","Text":"to my channel"}
+,{"StartTime":"102640","EndTime":"106560","Text":"yeah we are waiting file you can see"}
+,{"StartTime":"104960","EndTime":"108720","Text":"archive has been downloaded i&apos;ll click"}
+,{"StartTime":"106560","EndTime":"110720","Text":"on downloaded archive"}
+,{"StartTime":"108720","EndTime":"113759","Text":"and then double click on msi inside"}
+,{"StartTime":"110720","EndTime":"114399","Text":"archive and click on more info on this"}
+,{"StartTime":"113759","EndTime":"116240","Text":"screen"}
+,{"StartTime":"114399","EndTime":"117759","Text":"i&apos;m getting the screen from windows"}
+,{"StartTime":"116240","EndTime":"119600","Text":"because i&apos;m not registered publisher is"}
+,{"StartTime":"117759","EndTime":"121680","Text":"microsoft you can see publisher unknown"}
+,{"StartTime":"119600","EndTime":"123759","Text":"so i just click run anyway to start"}
+,{"StartTime":"121680","EndTime":"127360","Text":"installation"}
+,{"StartTime":"123759","EndTime":"130000","Text":"click on next next install click on yes"}
+,{"StartTime":"127360","EndTime":"131440","Text":"and click finish on final screen"}
+,{"StartTime":"130000","EndTime":"132959","Text":"and you can see application has been"}
+,{"StartTime":"131440","EndTime":"135520","Text":"installed on my computer have a new"}
+,{"StartTime":"132959","EndTime":"137440","Text":"shortcut on my desktop now i can close"}
+,{"StartTime":"135520","EndTime":"139280","Text":"this this this and double click on"}
+,{"StartTime":"137440","EndTime":"142400","Text":"shortcut to launch app"}
+,{"StartTime":"139280","EndTime":"144640","Text":"now if if you&apos;d like to have a similar"}
+,{"StartTime":"142400","EndTime":"147360","Text":"file or if you&apos;d like to see this"}
+,{"StartTime":"144640","EndTime":"149359","Text":"contact xml file you can click on this"}
+,{"StartTime":"147360","EndTime":"152720","Text":"link to download it and it will be"}
+,{"StartTime":"149360","EndTime":"154319","Text":"downloaded in your computer right now"}
+,{"StartTime":"152720","EndTime":"156400","Text":"so after"}
+,{"StartTime":"154319","EndTime":"158079","Text":"application launched step"}
+,{"StartTime":"156400","EndTime":"160319","Text":"conversion is three steps process in"}
+,{"StartTime":"158080","EndTime":"163040","Text":"step one we will have to select"}
+,{"StartTime":"160319","EndTime":"165359","Text":"um xml file we would like to convert so"}
+,{"StartTime":"163040","EndTime":"168560","Text":"i click on this button navigate to my"}
+,{"StartTime":"165360","EndTime":"168560","Text":"xml file"}
+,{"StartTime":"169360","EndTime":"176879","Text":"it called my contacts xml i think my"}
+,{"StartTime":"173680","EndTime":"179599","Text":"contacts examplexml yep i click open"}
+,{"StartTime":"176879","EndTime":"182799","Text":"click on i can add more file if i want"}
+,{"StartTime":"179599","EndTime":"184879","Text":"to if there is the same structure um"}
+,{"StartTime":"182800","EndTime":"187680","Text":"if there is the same xml structure i can"}
+,{"StartTime":"184879","EndTime":"189120","Text":"add them and click on next step"}
+,{"StartTime":"187680","EndTime":"192800","Text":"here um"}
+,{"StartTime":"189120","EndTime":"195760","Text":"and the second step i i can specify uh"}
+,{"StartTime":"192800","EndTime":"200400","Text":"if i want to have a one vcf file or many"}
+,{"StartTime":"195760","EndTime":"203440","Text":"vcf file so if i select one vcf file"}
+,{"StartTime":"200400","EndTime":"205920","Text":"only one file will be created and all"}
+,{"StartTime":"203440","EndTime":"208799","Text":"contacts will be put into this one file"}
+,{"StartTime":"205920","EndTime":"212640","Text":"it&apos;s useful if i have like uh if i want"}
+,{"StartTime":"208799","EndTime":"215120","Text":"to have vcf file for entire organization"}
+,{"StartTime":"212640","EndTime":"216958","Text":"and i can put it on the website and"}
+,{"StartTime":"215120","EndTime":"219120","Text":"everyone who download it can add like"}
+,{"StartTime":"216959","EndTime":"221440","Text":"entire organization contacts to it"}
+,{"StartTime":"219120","EndTime":"224080","Text":"however if i want to have a"}
+,{"StartTime":"221440","EndTime":"226400","Text":"one vcr file per person i can select"}
+,{"StartTime":"224080","EndTime":"229760","Text":"many files in this case"}
+,{"StartTime":"226400","EndTime":"231519","Text":"let&apos;s select one file and just have it"}
+,{"StartTime":"229760","EndTime":"232879","Text":"so"}
+,{"StartTime":"231519","EndTime":"236319","Text":"then i"}
+,{"StartTime":"232879","EndTime":"239200","Text":"here next step i will have to match vcf"}
+,{"StartTime":"236319","EndTime":"241518","Text":"columns with my xml data what will"}
+,{"StartTime":"239200","EndTime":"244399","Text":"happen on right side you can see"}
+,{"StartTime":"241519","EndTime":"248560","Text":"we have a columns we had before on xml"}
+,{"StartTime":"244400","EndTime":"249920","Text":"viewer now we have here so our goal is"}
+,{"StartTime":"248560","EndTime":"253360","Text":"to match"}
+,{"StartTime":"249920","EndTime":"255839","Text":"first name to first name right column so"}
+,{"StartTime":"253360","EndTime":"257600","Text":"your xml may be different and that&apos;s"}
+,{"StartTime":"255840","EndTime":"259040","Text":"okay because uh"}
+,{"StartTime":"257600","EndTime":"261440","Text":"if you have a"}
+,{"StartTime":"259040","EndTime":"263199","Text":"for example first name just name is name"}
+,{"StartTime":"261440","EndTime":"266080","Text":"you will have a different name but you"}
+,{"StartTime":"263199","EndTime":"269440","Text":"know how to match like what"}
+,{"StartTime":"266080","EndTime":"271758","Text":"you where is the data in your xml file"}
+,{"StartTime":"269440","EndTime":"275280","Text":"if you don&apos;t know you can you can use"}
+,{"StartTime":"271759","EndTime":"277120","Text":"that xml viewer to check um"}
+,{"StartTime":"275280","EndTime":"280400","Text":"where is how what is the name of the"}
+,{"StartTime":"277120","EndTime":"282400","Text":"column and how data is structured inside"}
+,{"StartTime":"280400","EndTime":"285039","Text":"so um"}
+,{"StartTime":"282400","EndTime":"288000","Text":"then i will select last name"}
+,{"StartTime":"285040","EndTime":"291040","Text":"organization"}
+,{"StartTime":"288000","EndTime":"293600","Text":"uh job title"}
+,{"StartTime":"291040","EndTime":"294840","Text":"i don&apos;t think if i have a"}
+,{"StartTime":"293600","EndTime":"298960","Text":"job title"}
+,{"StartTime":"294840","EndTime":"299580","Text":"here okay so i&apos;ll just keep uh i&apos;ll just"}
+,{"StartTime":"298960","EndTime":"301919","Text":"keep um"}
+,{"StartTime":"299580","EndTime":"304159","Text":"[Music]"}
+,{"StartTime":"301919","EndTime":"306799","Text":"missing information that&apos;s fine as well"}
+,{"StartTime":"304160","EndTime":"310639","Text":"so phone number"}
+,{"StartTime":"306800","EndTime":"312320","Text":"mobile phone from one a mail"}
+,{"StartTime":"310639","EndTime":"316000","Text":"yup"}
+,{"StartTime":"312320","EndTime":"317919","Text":"i don&apos;t have a home i have a home page"}
+,{"StartTime":"316000","EndTime":"319840","Text":"i don&apos;t have address so i&apos;ll just keep"}
+,{"StartTime":"317919","EndTime":"321680","Text":"it and have country click on next step"}
+,{"StartTime":"319840","EndTime":"325119","Text":"and then final step i&apos;ll click run and"}
+,{"StartTime":"321680","EndTime":"327680","Text":"it&apos;s asking me to create xml"}
+,{"StartTime":"325120","EndTime":"329680","Text":"to create a vcf file where it&apos;s"}
+,{"StartTime":"327680","EndTime":"331680","Text":"be located and what will be the name of"}
+,{"StartTime":"329680","EndTime":"333280","Text":"the file i can change the name of the"}
+,{"StartTime":"331680","EndTime":"335039","Text":"file"}
+,{"StartTime":"333280","EndTime":"337359","Text":"um like"}
+,{"StartTime":"335039","EndTime":"339440","Text":"my org"}
+,{"StartTime":"337360","EndTime":"341919","Text":"xml"}
+,{"StartTime":"339440","EndTime":"343600","Text":"and saved into my document click on save"}
+,{"StartTime":"341919","EndTime":"346159","Text":"and file has been saved"}
+,{"StartTime":"343600","EndTime":"347759","Text":"so yeah basically that&apos;s it we saved our"}
+,{"StartTime":"346160","EndTime":"350560","Text":"file we see a file for entire"}
+,{"StartTime":"347759","EndTime":"353520","Text":"organization we can i can double click"}
+,{"StartTime":"350560","EndTime":"355440","Text":"on it to open it i have a i have a vcf"}
+,{"StartTime":"353520","EndTime":"358479","Text":"viewer installed"}
+,{"StartTime":"355440","EndTime":"358479","Text":"on this computer"}
+,{"StartTime":"358560","EndTime":"362319","Text":"and it will show me what is inside of"}
+,{"StartTime":"360720","EndTime":"364720","Text":"this vcf file"}
+,{"StartTime":"362319","EndTime":"367919","Text":"this is also free app i&apos;ll i will leave"}
+,{"StartTime":"364720","EndTime":"370560","Text":"this link of this happen to description"}
+,{"StartTime":"367919","EndTime":"372560","Text":"i can also open it into"}
+,{"StartTime":"370560","EndTime":"375600","Text":"windows"}
+,{"StartTime":"372560","EndTime":"377039","Text":"contacts right but it will be opening"}
+,{"StartTime":"375600","EndTime":"380479","Text":"contacts per"}
+,{"StartTime":"377039","EndTime":"382000","Text":"vcf file so if i click you can see or we"}
+,{"StartTime":"380479","EndTime":"384318","Text":"have all the data"}
+,{"StartTime":"382000","EndTime":"387759","Text":"but in fact we can cancel it will open"}
+,{"StartTime":"384319","EndTime":"389280","Text":"next one next one and it will be opening"}
+,{"StartTime":"387759","EndTime":"391280","Text":"until"}
+,{"StartTime":"389280","EndTime":"395359","Text":"until i until"}
+,{"StartTime":"391280","EndTime":"398239","Text":"end of the file so this is how windows"}
+,{"StartTime":"395360","EndTime":"401280","Text":"but you can see all information uh phone"}
+,{"StartTime":"398240","EndTime":"403199","Text":"email cell organization company name"}
+,{"StartTime":"401280","EndTime":"405599","Text":"everything"}
+,{"StartTime":"403199","EndTime":"408639","Text":"has been imported"}
+,{"StartTime":"405600","EndTime":"411280","Text":"yeah basically that&apos;s it i can also open"}
+,{"StartTime":"408639","EndTime":"414160","Text":"it into many files so in this case it"}
+,{"StartTime":"411280","EndTime":"414159","Text":"will ask me to"}
+,{"StartTime":"414960","EndTime":"418960","Text":"specify folder when all these files will"}
+,{"StartTime":"417759","EndTime":"421440","Text":"be placed"}
+,{"StartTime":"418960","EndTime":"422799","Text":"so yeah basically that&apos;s it if you have"}
+,{"StartTime":"421440","EndTime":"426919","Text":"any questions please leave them in the"}
+,{"StartTime":"422800","EndTime":"426919","Text":"comments below thank you"}]
+
+}
