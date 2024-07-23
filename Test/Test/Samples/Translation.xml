@@ -1,0 +1,58 @@
+<Main0Data>
+<TranslationData>
+
+	<TranslationRow>
+		<transunitresname>welcome</transunitresname>
+		<transunitsource><![CDATA[Hooray, you&quot;re here! The day just got better - enjoy the following tips!]]></transunitsource>
+		<transunittarget>Hurra, du bist hier! Der Tag ist gerettet - nutze die folgenden Tipps!</transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>text_segment</transunitresname>
+		<transunitsource><![CDATA[A section of text like this is known as a text segment. Start rockin&quot; your translations now!]]></transunitsource>
+		<transunittarget>Eine Textpassage wie diese bezeichnen wir als Textsegment. Starte jetzt mit deinen Übersetzungen durch!</transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>tab_shortcut</transunitresname>
+		<transunitsource><![CDATA[Arriba, Arriba! Andale, Andale! Be fast as Speedy Gonzales. Just hit TAB to save and go to the next text segment, once you&quot;re done.]]></transunitsource>
+		<transunittarget>Arriba, Arriba! Andale, Andale! Sei schneller als Speedy Gonzales. Springe mit TAB ins nächste Textsegment, sobald du fertig bist. Deine Änderungen werden automatisch gespeichert.</transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>statuses</transunitresname>
+		<transunitsource>Houston, we have no problem. Keep track of the progress of your translations by statuses at any time.</transunitsource>
+		<transunittarget></transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>status_shortcut</transunitresname>
+		<transunitsource>Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.     You can see other shortcuts by pressing CTRL+H!</transunitsource>
+		<transunittarget></transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>placeholder_lingochecks</transunitresname>
+		<transunitsource></transunitsource>
+		<transunittarget>Bazinga!</transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>side_panel</transunitresname>
+		<transunitsource>Dear developers, you are the masters of translation files. Add comments in a file (depends on file format) to provide translators with more information. They are imported as a description, visible in the side panel.</transunitsource>
+		<transunittarget></transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>comments</transunitresname>
+		<transunitsource>Dear developers, you are the masters of translation files. Add comments in a file (depends on file format) to provide translators with more information. They are imported as a description, visible in the side panel.</transunitsource>
+		<transunittarget></transunittarget>
+	</TranslationRow>
+
+	<TranslationRow>
+		<transunitresname>love</transunitresname>
+		<transunitsource>Made with ❤</transunitsource>
+		<transunittarget>❤</transunittarget>
+	</TranslationRow>
+</TranslationData>
+</Main0Data>
